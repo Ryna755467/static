@@ -8,7 +8,7 @@
    打开 GitHub 的文件预览页面。
 
 2. raw 直链 - `https://raw.githubusercontent.com/Ryna755467/static/main/<文件名>`
-   在浏览器中直接打开文件。
+   在浏览器中直接打开。
 
 3. CDN 链接 - `https://cdn.jsdelivr.net/gh/Ryna755467/static@main/<文件名>`
    通过 jsDelivr CDN 加速访问。
